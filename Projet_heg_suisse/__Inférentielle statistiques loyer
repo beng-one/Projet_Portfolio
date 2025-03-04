@@ -1,0 +1,42 @@
+# Définition des paramètres pour chaque type de pièce
+data <- data.frame(
+  nb_pieces = c("Une pièce", "2 pièces", "3 pièces", "4 pièces", "5 pièces"),
+  x_echantillon = c(580.69, 1349.50, 1549.50, 1682.83, 1849.50),
+  n_echantillon = c(4, 3, 3, 9, 3),
+  ddl = c(3, 2, 2, 8, 2),
+  t_alpha_ddl = c(3.18, 4.30, 4.30, 2.31, 4.30),
+  S_echantillon = c(170.84, 244.95, 141.42, 518.54, 374.17),
+  IC_lower = c(308.84, 741.01, 1198, 1284.24, 920.02),
+  IC_upper = c(852.53, 1957.99, 1900.81, 2081.42, 2778.98)
+)
+
+# Affichage des données pour vérification
+print(data)
+
+# Création des courbes de densité pour chaque type de pièce
+colors <- c("red", "blue", "green", "purple", "orange")
+x <- seq(-5, 5, length = 100)
+
+plot(x, dt(x, df = data$ddl[1]), type = "l", col = colors[1], lwd = 2, 
+     ylim = c(0, 0.4), ylab = "Densité", xlab = "Valeurs de t", 
+     main = "Courbes de densité des lois de Student")
+
+for (i in 2:nrow(data)) {
+  lines(x, dt(x, df = data$ddl[i]), col = colors[i], lwd = 2)
+}
+
+# Ajout de la légende
+legend("topright", legend = data$nb_pieces, col = colors, lty = 1, lwd = 2)
+
+# Ajout des intervalles de confiance sur le graphique
+for (i in 1:nrow(data)) {
+  segments(data$x_echantillon[i] - data$t_alpha_ddl[i] * data$S_echantillon[i] / sqrt(data$n_echantillon[i]),
+           0,
+           data$x_echantillon[i] + data$t_alpha_ddl[i] * data$S_echantillon[i] / sqrt(data$n_echantillon[i]),
+           0,
+           col = colors[i], lwd = 2)
+  points(data$x_echantillon[i] - data$t_alpha_ddl[i] * data$S_echantillon[i] / sqrt(data$n_echantillon[i]),
+         0, col = colors[i], pch = 19)
+  points(data$x_echantillon[i] + data$t_alpha_ddl[i] * data$S_echantillon[i] / sqrt(data$n_echantillon[i]),
+         0, col = colors[i], pch = 19)
+}

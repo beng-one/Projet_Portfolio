@@ -1,0 +1,28 @@
+# Définition des paramètres
+pi_0 <- 0.20 # Proportion hypothétique sous Ho
+p_hat <- 10 / 28 # Proportion observée
+n <- 28 # Taille de l'échantillon
+alpha <- 0.05 # Niveau de signification
+z_alpha <- qnorm(1 - alpha) # Valeur critique pour alpha = 0.05
+
+# Calcul de l'écart-type
+std_error <- sqrt(pi_0 * (1 - pi_0) / n)
+
+# Calcul de la statistique z
+z <- (p_hat - pi_0) / std_error
+
+# Calcul de la p-valeur
+p_value <- 1 - pnorm(z)
+
+# Création du graphique
+curve(dnorm(x), from = -4, to = 4, col = "blue", lwd = 2, ylab = "Densité", 
+      xlab = "Statistique de test", main = "Test sur la proportion")
+abline(v = z, col = "red", lwd = 2, lty = 2)
+abline(v = z_alpha, col = "black", lwd = 2, lty = 2)
+legend("topright", legend = c("Distribution N(0,1)", "Statistique observée", "Seuil de rejet (z_α)"),
+       col = c("blue", "red", "black"), lty = c(1, 2, 2), lwd = 2, cex = 0.5)
+
+# Ajout des annotations
+text(z, 0.1, paste("z =", round(z, 1)), pos = 1.5, col = "red")
+text(z_alpha, 0.1, paste("z_alpha =", round(z_alpha, 1)), pos = 2, col = "black")
+

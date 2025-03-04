@@ -1,0 +1,47 @@
+# Création des matrices des effectifs observés et théoriques
+install.packages("vcd")
+observed <- matrix(c(6, 9, 4, 4), nrow = 2, byrow = TRUE)
+colnames(observed) <- c("(299 à 1199)", "(1200 à 2399)")
+rownames(observed) <- c("(19-23)", "(24-28)")
+
+expected <- matrix(c(7, 8, 3, 5), nrow = 2, byrow = TRUE)
+colnames(expected) <- c("(299 à 1199)", "(1200 à 2399)")
+rownames(expected) <- c("(19-23)", "(24-28)")
+
+# Affichage des matrices pour vérification
+print("Effectif observé :")
+print(observed)
+print("Effectif théorique :")
+print(expected)
+
+# Effectuer le test du chi-deux
+chi_square_test <- chisq.test(observed, p = expected/sum(expected), rescale.p = TRUE)
+
+# Affichage des résultats du test
+print(chi_square_test)
+
+# Comparaison avec la valeur critique
+alpha <- 0.05
+df <- (nrow(observed) - 1) * (ncol(observed) - 1)
+critical_value <- qchisq(1 - alpha, df)
+p_value <- chi_square_test$p.value
+
+print(paste("Valeur critique à", alpha, "degré(s) de liberté:", round(critical_value, 5)))
+print(paste("P-valeur:", round(p_value, 5)))
+
+# Conclusion
+if (p_value > alpha) {
+  print("Comme la p-valeur est supérieure à la valeur critique, nous ne pouvons pas rejeter l'hypothèse nulle.")
+  print("Donc, il n'y a pas suffisamment d'évidence pour rejeter l'hypothèse selon laquelle les montant du loyer sont indépendants de l'âge des locataires genevois.")
+} else {
+  print("Comme la p-valeur est inférieure à la valeur critique, nous rejetons l'hypothèse nulle.")
+  print("Donc, il y a suffisamment d'évidence pour conclure que les montants du loyer dépendent de l'âge des locataires genevois.")
+}
+
+# Représentation graphique
+library(vcd)
+
+# Création du graphique en mosaïque
+mosaicplot(observed, main = "Effectifs Observés", color = TRUE)
+mosaicplot(expected, main = "Effectifs Théoriques", color = TRUE)
+
