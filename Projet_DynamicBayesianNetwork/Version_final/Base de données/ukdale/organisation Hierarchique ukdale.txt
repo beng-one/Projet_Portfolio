@@ -1,0 +1,1565 @@
+<HDF5 file "ukdale.h5" (mode r)>
+├── building1
+│   └── elec
+│       ├── meter1
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (2304)
+│       │   │       ├── bounds (9)
+│       │   │       ├── indices (9)
+│       │   │       ├── indicesLR (1048576)
+│       │   │       ├── mbounds (2304)
+│       │   │       ├── mranges (9)
+│       │   │       ├── ranges (9)
+│       │   │       ├── sorted (9)
+│       │   │       ├── sortedLR (1048833)
+│       │   │       └── zbounds (2304)
+│       │   └── table (10239433)
+│       ├── meter10
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (4320)
+│       │   │       ├── bounds (9)
+│       │   │       ├── indices (9)
+│       │   │       ├── indicesLR (983040)
+│       │   │       ├── mbounds (4320)
+│       │   │       ├── mranges (9)
+│       │   │       ├── ranges (9)
+│       │   │       ├── sorted (9)
+│       │   │       ├── sortedLR (983521)
+│       │   │       └── zbounds (4320)
+│       │   └── table (8942091)
+│       ├── meter11
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (4320)
+│       │   │       ├── bounds (9)
+│       │   │       ├── indices (9)
+│       │   │       ├── indicesLR (983040)
+│       │   │       ├── mbounds (4320)
+│       │   │       ├── mranges (9)
+│       │   │       ├── ranges (9)
+│       │   │       ├── sorted (9)
+│       │   │       ├── sortedLR (983521)
+│       │   │       └── zbounds (4320)
+│       │   └── table (8989484)
+│       ├── meter12
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (4320)
+│       │   │       ├── bounds (9)
+│       │   │       ├── indices (9)
+│       │   │       ├── indicesLR (983040)
+│       │   │       ├── mbounds (4320)
+│       │   │       ├── mranges (9)
+│       │   │       ├── ranges (9)
+│       │   │       ├── sorted (9)
+│       │   │       ├── sortedLR (983521)
+│       │   │       └── zbounds (4320)
+│       │   └── table (8972363)
+│       ├── meter13
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3968)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (1015808)
+│       │   │       ├── mbounds (3968)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (1016305)
+│       │   │       └── zbounds (3968)
+│       │   └── table (9018806)
+│       ├── meter14
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (960)
+│       │   │       ├── bounds (3)
+│       │   │       ├── indices (3)
+│       │   │       ├── indicesLR (655360)
+│       │   │       ├── mbounds (960)
+│       │   │       ├── mranges (3)
+│       │   │       ├── ranges (3)
+│       │   │       ├── sorted (3)
+│       │   │       ├── sortedLR (655681)
+│       │   │       └── zbounds (960)
+│       │   └── table (2150625)
+│       ├── meter15
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (960)
+│       │   │       ├── bounds (3)
+│       │   │       ├── indices (3)
+│       │   │       ├── indicesLR (655360)
+│       │   │       ├── mbounds (960)
+│       │   │       ├── mranges (3)
+│       │   │       ├── ranges (3)
+│       │   │       ├── sorted (3)
+│       │   │       ├── sortedLR (655681)
+│       │   │       └── zbounds (960)
+│       │   └── table (2163633)
+│       ├── meter16
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3968)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (1015808)
+│       │   │       ├── mbounds (3968)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (1016305)
+│       │   │       └── zbounds (3968)
+│       │   └── table (9023050)
+│       ├── meter17
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3968)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (1015808)
+│       │   │       ├── mbounds (3968)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (1016305)
+│       │   │       └── zbounds (3968)
+│       │   └── table (9044012)
+│       ├── meter18
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (4320)
+│       │   │       ├── bounds (9)
+│       │   │       ├── indices (9)
+│       │   │       ├── indicesLR (983040)
+│       │   │       ├── mbounds (4320)
+│       │   │       ├── mranges (9)
+│       │   │       ├── ranges (9)
+│       │   │       ├── sorted (9)
+│       │   │       ├── sortedLR (983521)
+│       │   │       └── zbounds (4320)
+│       │   └── table (8972082)
+│       ├── meter19
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3840)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (983040)
+│       │   │       ├── mbounds (3840)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (983521)
+│       │   │       └── zbounds (3840)
+│       │   └── table (8385106)
+│       ├── meter2
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (2304)
+│       │   │       ├── bounds (9)
+│       │   │       ├── indices (9)
+│       │   │       ├── indicesLR (1048576)
+│       │   │       ├── mbounds (2304)
+│       │   │       ├── mranges (9)
+│       │   │       ├── ranges (9)
+│       │   │       ├── sorted (9)
+│       │   │       ├── sortedLR (1048833)
+│       │   │       └── zbounds (2304)
+│       │   └── table (10066552)
+│       ├── meter20
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (432)
+│       │   │       ├── bounds (1)
+│       │   │       ├── indices (1)
+│       │   │       ├── indicesLR (442368)
+│       │   │       ├── mbounds (432)
+│       │   │       ├── mranges (1)
+│       │   │       ├── ranges (1)
+│       │   │       ├── sorted (1)
+│       │   │       ├── sortedLR (442801)
+│       │   │       └── zbounds (432)
+│       │   └── table (617699)
+│       ├── meter21
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (576)
+│       │   │       ├── bounds (2)
+│       │   │       ├── indices (2)
+│       │   │       ├── indicesLR (589824)
+│       │   │       ├── mbounds (576)
+│       │   │       ├── mranges (2)
+│       │   │       ├── ranges (2)
+│       │   │       ├── sorted (2)
+│       │   │       ├── sortedLR (590113)
+│       │   │       └── zbounds (576)
+│       │   └── table (1624251)
+│       ├── meter22
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (0)
+│       │   │       ├── bounds (0)
+│       │   │       ├── indices (0)
+│       │   │       ├── indicesLR (262144)
+│       │   │       ├── mbounds (0)
+│       │   │       ├── mranges (0)
+│       │   │       ├── ranges (0)
+│       │   │       ├── sorted (0)
+│       │   │       ├── sortedLR (262401)
+│       │   │       └── zbounds (0)
+│       │   └── table (74283)
+│       ├── meter23
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3840)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (983040)
+│       │   │       ├── mbounds (3840)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (983521)
+│       │   │       └── zbounds (3840)
+│       │   └── table (8435290)
+│       ├── meter24
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3024)
+│       │   │       ├── bounds (7)
+│       │   │       ├── indices (7)
+│       │   │       ├── indicesLR (884736)
+│       │   │       ├── mbounds (3024)
+│       │   │       ├── mranges (7)
+│       │   │       ├── ranges (7)
+│       │   │       ├── sorted (7)
+│       │   │       ├── sortedLR (885169)
+│       │   │       └── zbounds (3024)
+│       │   └── table (6412272)
+│       ├── meter25
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (4464)
+│       │   │       ├── bounds (9)
+│       │   │       ├── indices (9)
+│       │   │       ├── indicesLR (1015808)
+│       │   │       ├── mbounds (4464)
+│       │   │       ├── mranges (9)
+│       │   │       ├── ranges (9)
+│       │   │       ├── sorted (9)
+│       │   │       ├── sortedLR (1016305)
+│       │   │       └── zbounds (4464)
+│       │   └── table (9187666)
+│       ├── meter26
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3840)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (983040)
+│       │   │       ├── mbounds (3840)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (983521)
+│       │   │       └── zbounds (3840)
+│       │   └── table (8153950)
+│       ├── meter27
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (2592)
+│       │   │       ├── bounds (6)
+│       │   │       ├── indices (6)
+│       │   │       ├── indicesLR (884736)
+│       │   │       ├── mbounds (2592)
+│       │   │       ├── mranges (6)
+│       │   │       ├── ranges (6)
+│       │   │       ├── sorted (6)
+│       │   │       ├── sortedLR (885169)
+│       │   │       └── zbounds (2592)
+│       │   └── table (6042249)
+│       ├── meter28
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3840)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (983040)
+│       │   │       ├── mbounds (3840)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (983521)
+│       │   │       └── zbounds (3840)
+│       │   └── table (8146705)
+│       ├── meter29
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3840)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (983040)
+│       │   │       ├── mbounds (3840)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (983521)
+│       │   │       └── zbounds (3840)
+│       │   └── table (8149333)
+│       ├── meter3
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (2304)
+│       │   │       ├── bounds (9)
+│       │   │       ├── indices (9)
+│       │   │       ├── indicesLR (1048576)
+│       │   │       ├── mbounds (2304)
+│       │   │       ├── mranges (9)
+│       │   │       ├── ranges (9)
+│       │   │       ├── sorted (9)
+│       │   │       ├── sortedLR (1048833)
+│       │   │       └── zbounds (2304)
+│       │   └── table (10066448)
+│       ├── meter30
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (448)
+│       │   │       ├── bounds (1)
+│       │   │       ├── indices (1)
+│       │   │       ├── indicesLR (458752)
+│       │   │       ├── mbounds (448)
+│       │   │       ├── mranges (1)
+│       │   │       ├── ranges (1)
+│       │   │       ├── sorted (1)
+│       │   │       ├── sortedLR (459201)
+│       │   │       └── zbounds (448)
+│       │   └── table (677711)
+│       ├── meter31
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3712)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (950272)
+│       │   │       ├── mbounds (3712)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (950737)
+│       │   │       └── zbounds (3712)
+│       │   └── table (7616688)
+│       ├── meter32
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3840)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (983040)
+│       │   │       ├── mbounds (3840)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (983521)
+│       │   │       └── zbounds (3840)
+│       │   └── table (8106894)
+│       ├── meter33
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3136)
+│       │   │       ├── bounds (7)
+│       │   │       ├── indices (7)
+│       │   │       ├── indicesLR (917504)
+│       │   │       ├── mbounds (3136)
+│       │   │       ├── mranges (7)
+│       │   │       ├── ranges (7)
+│       │   │       ├── sorted (7)
+│       │   │       ├── sortedLR (917953)
+│       │   │       └── zbounds (3136)
+│       │   └── table (7205814)
+│       ├── meter34
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3248)
+│       │   │       ├── bounds (7)
+│       │   │       ├── indices (7)
+│       │   │       ├── indicesLR (950272)
+│       │   │       ├── mbounds (3248)
+│       │   │       ├── mranges (7)
+│       │   │       ├── ranges (7)
+│       │   │       ├── sorted (7)
+│       │   │       ├── sortedLR (950737)
+│       │   │       └── zbounds (3248)
+│       │   └── table (7397397)
+│       ├── meter35
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3712)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (950272)
+│       │   │       ├── mbounds (3712)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (950737)
+│       │   │       └── zbounds (3712)
+│       │   └── table (7802611)
+│       ├── meter36
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3840)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (983040)
+│       │   │       ├── mbounds (3840)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (983521)
+│       │   │       └── zbounds (3840)
+│       │   └── table (8095133)
+│       ├── meter37
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3840)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (983040)
+│       │   │       ├── mbounds (3840)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (983521)
+│       │   │       └── zbounds (3840)
+│       │   └── table (8091232)
+│       ├── meter38
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3840)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (983040)
+│       │   │       ├── mbounds (3840)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (983521)
+│       │   │       └── zbounds (3840)
+│       │   └── table (8119287)
+│       ├── meter39
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (0)
+│       │   │       ├── bounds (0)
+│       │   │       ├── indices (0)
+│       │   │       ├── indicesLR (262144)
+│       │   │       ├── mbounds (0)
+│       │   │       ├── mranges (0)
+│       │   │       ├── ranges (0)
+│       │   │       ├── sorted (0)
+│       │   │       ├── sortedLR (262401)
+│       │   │       └── zbounds (0)
+│       │   └── table (41764)
+│       ├── meter4
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (1008)
+│       │   │       ├── bounds (3)
+│       │   │       ├── indices (3)
+│       │   │       ├── indicesLR (688128)
+│       │   │       ├── mbounds (1008)
+│       │   │       ├── mranges (3)
+│       │   │       ├── ranges (3)
+│       │   │       ├── sorted (3)
+│       │   │       ├── sortedLR (688465)
+│       │   │       └── zbounds (1008)
+│       │   └── table (2557435)
+│       ├── meter40
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (0)
+│       │   │       ├── bounds (0)
+│       │   │       ├── indices (0)
+│       │   │       ├── indicesLR (262144)
+│       │   │       ├── mbounds (0)
+│       │   │       ├── mranges (0)
+│       │   │       ├── ranges (0)
+│       │   │       ├── sorted (0)
+│       │   │       ├── sortedLR (262401)
+│       │   │       └── zbounds (0)
+│       │   └── table (33856)
+│       ├── meter41
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (0)
+│       │   │       ├── bounds (0)
+│       │   │       ├── indices (0)
+│       │   │       ├── indicesLR (262144)
+│       │   │       ├── mbounds (0)
+│       │   │       ├── mranges (0)
+│       │   │       ├── ranges (0)
+│       │   │       ├── sorted (0)
+│       │   │       ├── sortedLR (262401)
+│       │   │       └── zbounds (0)
+│       │   └── table (2818)
+│       ├── meter42
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3712)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (950272)
+│       │   │       ├── mbounds (3712)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (950737)
+│       │   │       └── zbounds (3712)
+│       │   └── table (7935610)
+│       ├── meter43
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3840)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (983040)
+│       │   │       ├── mbounds (3840)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (983521)
+│       │   │       └── zbounds (3840)
+│       │   └── table (8113605)
+│       ├── meter44
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3840)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (983040)
+│       │   │       ├── mbounds (3840)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (983521)
+│       │   │       └── zbounds (3840)
+│       │   └── table (8115281)
+│       ├── meter45
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3248)
+│       │   │       ├── bounds (7)
+│       │   │       ├── indices (7)
+│       │   │       ├── indicesLR (950272)
+│       │   │       ├── mbounds (3248)
+│       │   │       ├── mranges (7)
+│       │   │       ├── ranges (7)
+│       │   │       ├── sorted (7)
+│       │   │       ├── sortedLR (950737)
+│       │   │       └── zbounds (3248)
+│       │   └── table (7562046)
+│       ├── meter46
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3248)
+│       │   │       ├── bounds (7)
+│       │   │       ├── indices (7)
+│       │   │       ├── indicesLR (950272)
+│       │   │       ├── mbounds (3248)
+│       │   │       ├── mranges (7)
+│       │   │       ├── ranges (7)
+│       │   │       ├── sorted (7)
+│       │   │       ├── sortedLR (950737)
+│       │   │       └── zbounds (3248)
+│       │   └── table (7318452)
+│       ├── meter47
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3712)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (950272)
+│       │   │       ├── mbounds (3712)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (950737)
+│       │   │       └── zbounds (3712)
+│       │   └── table (7660878)
+│       ├── meter48
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3712)
+│       │   │       ├── bounds (8)
+│       │   │       ├── indices (8)
+│       │   │       ├── indicesLR (950272)
+│       │   │       ├── mbounds (3712)
+│       │   │       ├── mranges (8)
+│       │   │       ├── ranges (8)
+│       │   │       ├── sorted (8)
+│       │   │       ├── sortedLR (950737)
+│       │   │       └── zbounds (3712)
+│       │   └── table (7738238)
+│       ├── meter49
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (3248)
+│       │   │       ├── bounds (7)
+│       │   │       ├── indices (7)
+│       │   │       ├── indicesLR (950272)
+│       │   │       ├── mbounds (3248)
+│       │   │       ├── mranges (7)
+│       │   │       ├── ranges (7)
+│       │   │       ├── sorted (7)
+│       │   │       ├── sortedLR (950737)
+│       │   │       └── zbounds (3248)
+│       │   └── table (7285537)
+│       ├── meter5
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (4464)
+│       │   │       ├── bounds (9)
+│       │   │       ├── indices (9)
+│       │   │       ├── indicesLR (1015808)
+│       │   │       ├── mbounds (4464)
+│       │   │       ├── mranges (9)
+│       │   │       ├── ranges (9)
+│       │   │       ├── sorted (9)
+│       │   │       ├── sortedLR (1016305)
+│       │   │       └── zbounds (4464)
+│       │   └── table (9194001)
+│       ├── meter50
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (544)
+│       │   │       ├── bounds (2)
+│       │   │       ├── indices (2)
+│       │   │       ├── indicesLR (557056)
+│       │   │       ├── mbounds (544)
+│       │   │       ├── mranges (2)
+│       │   │       ├── ranges (2)
+│       │   │       ├── sorted (2)
+│       │   │       ├── sortedLR (557329)
+│       │   │       └── zbounds (544)
+│       │   └── table (1373816)
+│       ├── meter51
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (544)
+│       │   │       ├── bounds (2)
+│       │   │       ├── indices (2)
+│       │   │       ├── indicesLR (557056)
+│       │   │       ├── mbounds (544)
+│       │   │       ├── mranges (2)
+│       │   │       ├── ranges (2)
+│       │   │       ├── sorted (2)
+│       │   │       ├── sortedLR (557329)
+│       │   │       └── zbounds (544)
+│       │   └── table (1400393)
+│       ├── meter52
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (912)
+│       │   │       ├── bounds (3)
+│       │   │       ├── indices (3)
+│       │   │       ├── indicesLR (622592)
+│       │   │       ├── mbounds (912)
+│       │   │       ├── mranges (3)
+│       │   │       ├── ranges (3)
+│       │   │       ├── sorted (3)
+│       │   │       ├── sortedLR (622897)
+│       │   │       └── zbounds (912)
+│       │   └── table (2081985)
+│       ├── meter53
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (256)
+│       │   │       ├── bounds (1)
+│       │   │       ├── indices (1)
+│       │   │       ├── indicesLR (524288)
+│       │   │       ├── mbounds (256)
+│       │   │       ├── mranges (1)
+│       │   │       ├── ranges (1)
+│       │   │       ├── sorted (1)
+│       │   │       ├── sortedLR (524545)
+│       │   │       └── zbounds (256)
+│       │   └── table (1004136)
+│       ├── meter54
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (13728)
+│       │   │       ├── bounds (33)
+│       │   │       ├── indices (33)
+│       │   │       ├── indicesLR (1703936)
+│       │   │       ├── mbounds (13728)
+│       │   │       ├── mranges (33)
+│       │   │       ├── ranges (33)
+│       │   │       ├── sorted (33)
+│       │   │       ├── sortedLR (1704353)
+│       │   │       └── zbounds (13728)
+│       │   └── table (56687468)
+│       ├── meter6
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (4464)
+│       │   │       ├── bounds (9)
+│       │   │       ├── indices (9)
+│       │   │       ├── indicesLR (1015808)
+│       │   │       ├── mbounds (4464)
+│       │   │       ├── mranges (9)
+│       │   │       ├── ranges (9)
+│       │   │       ├── sorted (9)
+│       │   │       ├── sortedLR (1016305)
+│       │   │       └── zbounds (4464)
+│       │   └── table (9315898)
+│       ├── meter7
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (4464)
+│       │   │       ├── bounds (9)
+│       │   │       ├── indices (9)
+│       │   │       ├── indicesLR (1015808)
+│       │   │       ├── mbounds (4464)
+│       │   │       ├── mranges (9)
+│       │   │       ├── ranges (9)
+│       │   │       ├── sorted (9)
+│       │   │       ├── sortedLR (1016305)
+│       │   │       └── zbounds (4464)
+│       │   └── table (9269062)
+│       ├── meter8
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (2304)
+│       │   │       ├── bounds (9)
+│       │   │       ├── indices (9)
+│       │   │       ├── indicesLR (1048576)
+│       │   │       ├── mbounds (2304)
+│       │   │       ├── mranges (9)
+│       │   │       ├── ranges (9)
+│       │   │       ├── sorted (9)
+│       │   │       ├── sortedLR (1048833)
+│       │   │       └── zbounds (2304)
+│       │   └── table (10223115)
+│       └── meter9
+│           ├── _i_table
+│           │   └── index
+│           │       ├── abounds (3968)
+│           │       ├── bounds (8)
+│           │       ├── indices (8)
+│           │       ├── indicesLR (1015808)
+│           │       ├── mbounds (3968)
+│           │       ├── mranges (8)
+│           │       ├── ranges (8)
+│           │       ├── sorted (8)
+│           │       ├── sortedLR (1016305)
+│           │       └── zbounds (3968)
+│           └── table (9036707)
+├── building2
+│   └── elec
+│       ├── meter1
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (1344)
+│       │   │       ├── bounds (4)
+│       │   │       ├── indices (4)
+│       │   │       ├── indicesLR (688128)
+│       │   │       ├── mbounds (1344)
+│       │   │       ├── mranges (4)
+│       │   │       ├── ranges (4)
+│       │   │       ├── sorted (4)
+│       │   │       ├── sortedLR (688465)
+│       │   │       └── zbounds (1344)
+│       │   └── table (2780373)
+│       ├── meter10
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (912)
+│       │   │       ├── bounds (3)
+│       │   │       ├── indices (3)
+│       │   │       ├── indicesLR (622592)
+│       │   │       ├── mbounds (912)
+│       │   │       ├── mranges (3)
+│       │   │       ├── ranges (3)
+│       │   │       ├── sorted (3)
+│       │   │       ├── sortedLR (622897)
+│       │   │       └── zbounds (912)
+│       │   └── table (2089140)
+│       ├── meter11
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (912)
+│       │   │       ├── bounds (3)
+│       │   │       ├── indices (3)
+│       │   │       ├── indicesLR (622592)
+│       │   │       ├── mbounds (912)
+│       │   │       ├── mranges (3)
+│       │   │       ├── ranges (3)
+│       │   │       ├── sorted (3)
+│       │   │       ├── sortedLR (622897)
+│       │   │       └── zbounds (912)
+│       │   └── table (1878770)
+│       ├── meter12
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (576)
+│       │   │       ├── bounds (2)
+│       │   │       ├── indices (2)
+│       │   │       ├── indicesLR (589824)
+│       │   │       ├── mbounds (576)
+│       │   │       ├── mranges (2)
+│       │   │       ├── ranges (2)
+│       │   │       ├── sorted (2)
+│       │   │       ├── sortedLR (590113)
+│       │   │       └── zbounds (576)
+│       │   └── table (1686220)
+│       ├── meter13
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (576)
+│       │   │       ├── bounds (2)
+│       │   │       ├── indices (2)
+│       │   │       ├── indicesLR (589824)
+│       │   │       ├── mbounds (576)
+│       │   │       ├── mranges (2)
+│       │   │       ├── ranges (2)
+│       │   │       ├── sorted (2)
+│       │   │       ├── sortedLR (590113)
+│       │   │       └── zbounds (576)
+│       │   └── table (1687175)
+│       ├── meter14
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (576)
+│       │   │       ├── bounds (2)
+│       │   │       ├── indices (2)
+│       │   │       ├── indicesLR (589824)
+│       │   │       ├── mbounds (576)
+│       │   │       ├── mranges (2)
+│       │   │       ├── ranges (2)
+│       │   │       ├── sorted (2)
+│       │   │       ├── sortedLR (590113)
+│       │   │       └── zbounds (576)
+│       │   └── table (1687285)
+│       ├── meter15
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (576)
+│       │   │       ├── bounds (2)
+│       │   │       ├── indices (2)
+│       │   │       ├── indicesLR (589824)
+│       │   │       ├── mbounds (576)
+│       │   │       ├── mranges (2)
+│       │   │       ├── ranges (2)
+│       │   │       ├── sorted (2)
+│       │   │       ├── sortedLR (590113)
+│       │   │       └── zbounds (576)
+│       │   └── table (1685519)
+│       ├── meter16
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (576)
+│       │   │       ├── bounds (2)
+│       │   │       ├── indices (2)
+│       │   │       ├── indicesLR (589824)
+│       │   │       ├── mbounds (576)
+│       │   │       ├── mranges (2)
+│       │   │       ├── ranges (2)
+│       │   │       ├── sorted (2)
+│       │   │       ├── sortedLR (590113)
+│       │   │       └── zbounds (576)
+│       │   └── table (1685322)
+│       ├── meter17
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (576)
+│       │   │       ├── bounds (2)
+│       │   │       ├── indices (2)
+│       │   │       ├── indicesLR (589824)
+│       │   │       ├── mbounds (576)
+│       │   │       ├── mranges (2)
+│       │   │       ├── ranges (2)
+│       │   │       ├── sorted (2)
+│       │   │       ├── sortedLR (590113)
+│       │   │       └── zbounds (576)
+│       │   └── table (1686903)
+│       ├── meter18
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (576)
+│       │   │       ├── bounds (2)
+│       │   │       ├── indices (2)
+│       │   │       ├── indicesLR (589824)
+│       │   │       ├── mbounds (576)
+│       │   │       ├── mranges (2)
+│       │   │       ├── ranges (2)
+│       │   │       ├── sorted (2)
+│       │   │       ├── sortedLR (590113)
+│       │   │       └── zbounds (576)
+│       │   └── table (1677592)
+│       ├── meter19
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (576)
+│       │   │       ├── bounds (2)
+│       │   │       ├── indices (2)
+│       │   │       ├── indicesLR (589824)
+│       │   │       ├── mbounds (576)
+│       │   │       ├── mranges (2)
+│       │   │       ├── ranges (2)
+│       │   │       ├── sorted (2)
+│       │   │       ├── sortedLR (590113)
+│       │   │       └── zbounds (576)
+│       │   └── table (1679203)
+│       ├── meter2
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (1344)
+│       │   │       ├── bounds (4)
+│       │   │       ├── indices (4)
+│       │   │       ├── indicesLR (688128)
+│       │   │       ├── mbounds (1344)
+│       │   │       ├── mranges (4)
+│       │   │       ├── ranges (4)
+│       │   │       ├── sorted (4)
+│       │   │       ├── sortedLR (688465)
+│       │   │       └── zbounds (1344)
+│       │   └── table (2804685)
+│       ├── meter20
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (2816)
+│       │   │       ├── bounds (11)
+│       │   │       ├── indices (11)
+│       │   │       ├── indicesLR (1048576)
+│       │   │       ├── mbounds (2816)
+│       │   │       ├── mranges (11)
+│       │   │       ├── ranges (11)
+│       │   │       ├── sorted (11)
+│       │   │       ├── sortedLR (1048833)
+│       │   │       └── zbounds (2816)
+│       │   └── table (12166699)
+│       ├── meter3
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (1344)
+│       │   │       ├── bounds (4)
+│       │   │       ├── indices (4)
+│       │   │       ├── indicesLR (688128)
+│       │   │       ├── mbounds (1344)
+│       │   │       ├── mranges (4)
+│       │   │       ├── ranges (4)
+│       │   │       ├── sorted (4)
+│       │   │       ├── sortedLR (688465)
+│       │   │       └── zbounds (1344)
+│       │   └── table (2805646)
+│       ├── meter4
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (1344)
+│       │   │       ├── bounds (4)
+│       │   │       ├── indices (4)
+│       │   │       ├── indicesLR (688128)
+│       │   │       ├── mbounds (1344)
+│       │   │       ├── mranges (4)
+│       │   │       ├── ranges (4)
+│       │   │       ├── sorted (4)
+│       │   │       ├── sortedLR (688465)
+│       │   │       └── zbounds (1344)
+│       │   └── table (2801065)
+│       ├── meter5
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (1344)
+│       │   │       ├── bounds (4)
+│       │   │       ├── indices (4)
+│       │   │       ├── indicesLR (688128)
+│       │   │       ├── mbounds (1344)
+│       │   │       ├── mranges (4)
+│       │   │       ├── ranges (4)
+│       │   │       ├── sorted (4)
+│       │   │       ├── sortedLR (688465)
+│       │   │       └── zbounds (1344)
+│       │   └── table (2806036)
+│       ├── meter6
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (1344)
+│       │   │       ├── bounds (4)
+│       │   │       ├── indices (4)
+│       │   │       ├── indicesLR (688128)
+│       │   │       ├── mbounds (1344)
+│       │   │       ├── mranges (4)
+│       │   │       ├── ranges (4)
+│       │   │       ├── sorted (4)
+│       │   │       ├── sortedLR (688465)
+│       │   │       └── zbounds (1344)
+│       │   └── table (2795349)
+│       ├── meter7
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (912)
+│       │   │       ├── bounds (3)
+│       │   │       ├── indices (3)
+│       │   │       ├── indicesLR (622592)
+│       │   │       ├── mbounds (912)
+│       │   │       ├── mranges (3)
+│       │   │       ├── ranges (3)
+│       │   │       ├── sorted (3)
+│       │   │       ├── sortedLR (622897)
+│       │   │       └── zbounds (912)
+│       │   └── table (2094586)
+│       ├── meter8
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (912)
+│       │   │       ├── bounds (3)
+│       │   │       ├── indices (3)
+│       │   │       ├── indicesLR (622592)
+│       │   │       ├── mbounds (912)
+│       │   │       ├── mranges (3)
+│       │   │       ├── ranges (3)
+│       │   │       ├── sorted (3)
+│       │   │       ├── sortedLR (622897)
+│       │   │       └── zbounds (912)
+│       │   └── table (2094523)
+│       └── meter9
+│           ├── _i_table
+│           │   └── index
+│           │       ├── abounds (912)
+│           │       ├── bounds (3)
+│           │       ├── indices (3)
+│           │       ├── indicesLR (622592)
+│           │       ├── mbounds (912)
+│           │       ├── mranges (3)
+│           │       ├── ranges (3)
+│           │       ├── sorted (3)
+│           │       ├── sortedLR (622897)
+│           │       └── zbounds (912)
+│           └── table (2080995)
+├── building3
+│   └── elec
+│       ├── meter1
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (416)
+│       │   │       ├── bounds (1)
+│       │   │       ├── indices (1)
+│       │   │       ├── indicesLR (425984)
+│       │   │       ├── mbounds (416)
+│       │   │       ├── mranges (1)
+│       │   │       ├── ranges (1)
+│       │   │       ├── sorted (1)
+│       │   │       ├── sortedLR (426401)
+│       │   │       └── zbounds (416)
+│       │   └── table (512327)
+│       ├── meter2
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (416)
+│       │   │       ├── bounds (1)
+│       │   │       ├── indices (1)
+│       │   │       ├── indicesLR (425984)
+│       │   │       ├── mbounds (416)
+│       │   │       ├── mranges (1)
+│       │   │       ├── ranges (1)
+│       │   │       ├── sorted (1)
+│       │   │       ├── sortedLR (426401)
+│       │   │       └── zbounds (416)
+│       │   └── table (515845)
+│       ├── meter3
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (416)
+│       │   │       ├── bounds (1)
+│       │   │       ├── indices (1)
+│       │   │       ├── indicesLR (425984)
+│       │   │       ├── mbounds (416)
+│       │   │       ├── mranges (1)
+│       │   │       ├── ranges (1)
+│       │   │       ├── sorted (1)
+│       │   │       ├── sortedLR (426401)
+│       │   │       └── zbounds (416)
+│       │   └── table (517434)
+│       ├── meter4
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (416)
+│       │   │       ├── bounds (1)
+│       │   │       ├── indices (1)
+│       │   │       ├── indicesLR (425984)
+│       │   │       ├── mbounds (416)
+│       │   │       ├── mranges (1)
+│       │   │       ├── ranges (1)
+│       │   │       ├── sorted (1)
+│       │   │       ├── sortedLR (426401)
+│       │   │       └── zbounds (416)
+│       │   └── table (517595)
+│       └── meter5
+│           ├── _i_table
+│           │   └── index
+│           │       ├── abounds (416)
+│           │       ├── bounds (1)
+│           │       ├── indices (1)
+│           │       ├── indicesLR (425984)
+│           │       ├── mbounds (416)
+│           │       ├── mranges (1)
+│           │       ├── ranges (1)
+│           │       ├── sorted (1)
+│           │       ├── sortedLR (426401)
+│           │       └── zbounds (416)
+│           └── table (517957)
+├── building4
+│   └── elec
+│       ├── meter1
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (960)
+│       │   │       ├── bounds (3)
+│       │   │       ├── indices (3)
+│       │   │       ├── indicesLR (655360)
+│       │   │       ├── mbounds (960)
+│       │   │       ├── mranges (3)
+│       │   │       ├── ranges (3)
+│       │   │       ├── sorted (3)
+│       │   │       ├── sortedLR (655681)
+│       │   │       └── zbounds (960)
+│       │   └── table (2186446)
+│       ├── meter2
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (960)
+│       │   │       ├── bounds (3)
+│       │   │       ├── indices (3)
+│       │   │       ├── indicesLR (655360)
+│       │   │       ├── mbounds (960)
+│       │   │       ├── mranges (3)
+│       │   │       ├── ranges (3)
+│       │   │       ├── sorted (3)
+│       │   │       ├── sortedLR (655681)
+│       │   │       └── zbounds (960)
+│       │   └── table (2156167)
+│       ├── meter3
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (960)
+│       │   │       ├── bounds (3)
+│       │   │       ├── indices (3)
+│       │   │       ├── indicesLR (655360)
+│       │   │       ├── mbounds (960)
+│       │   │       ├── mranges (3)
+│       │   │       ├── ranges (3)
+│       │   │       ├── sorted (3)
+│       │   │       ├── sortedLR (655681)
+│       │   │       └── zbounds (960)
+│       │   └── table (2171770)
+│       ├── meter4
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (960)
+│       │   │       ├── bounds (3)
+│       │   │       ├── indices (3)
+│       │   │       ├── indicesLR (655360)
+│       │   │       ├── mbounds (960)
+│       │   │       ├── mranges (3)
+│       │   │       ├── ranges (3)
+│       │   │       ├── sorted (3)
+│       │   │       ├── sortedLR (655681)
+│       │   │       └── zbounds (960)
+│       │   └── table (2198131)
+│       ├── meter5
+│       │   ├── _i_table
+│       │   │   └── index
+│       │   │       ├── abounds (960)
+│       │   │       ├── bounds (3)
+│       │   │       ├── indices (3)
+│       │   │       ├── indicesLR (655360)
+│       │   │       ├── mbounds (960)
+│       │   │       ├── mranges (3)
+│       │   │       ├── ranges (3)
+│       │   │       ├── sorted (3)
+│       │   │       ├── sortedLR (655681)
+│       │   │       └── zbounds (960)
+│       │   └── table (2194864)
+│       └── meter6
+│           ├── _i_table
+│           │   └── index
+│           │       ├── abounds (960)
+│           │       ├── bounds (3)
+│           │       ├── indices (3)
+│           │       ├── indicesLR (655360)
+│           │       ├── mbounds (960)
+│           │       ├── mranges (3)
+│           │       ├── ranges (3)
+│           │       ├── sorted (3)
+│           │       ├── sortedLR (655681)
+│           │       └── zbounds (960)
+│           └── table (2180830)
+└── building5
+    └── elec
+        ├── meter1
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (576)
+        │   │       ├── bounds (2)
+        │   │       ├── indices (2)
+        │   │       ├── indicesLR (589824)
+        │   │       ├── mbounds (576)
+        │   │       ├── mranges (2)
+        │   │       ├── ranges (2)
+        │   │       ├── sorted (2)
+        │   │       ├── sortedLR (590113)
+        │   │       └── zbounds (576)
+        │   └── table (1763101)
+        ├── meter10
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (496)
+        │   │       ├── bounds (1)
+        │   │       ├── indices (1)
+        │   │       ├── indicesLR (507904)
+        │   │       ├── mbounds (496)
+        │   │       ├── mranges (1)
+        │   │       ├── ranges (1)
+        │   │       ├── sorted (1)
+        │   │       ├── sortedLR (508401)
+        │   │       └── zbounds (496)
+        │   └── table (985784)
+        ├── meter11
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (0)
+        │   │       ├── bounds (0)
+        │   │       ├── indices (0)
+        │   │       ├── indicesLR (262144)
+        │   │       ├── mbounds (0)
+        │   │       ├── mranges (0)
+        │   │       ├── ranges (0)
+        │   │       ├── sorted (0)
+        │   │       ├── sortedLR (262401)
+        │   │       └── zbounds (0)
+        │   └── table (10215)
+        ├── meter12
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (496)
+        │   │       ├── bounds (1)
+        │   │       ├── indices (1)
+        │   │       ├── indicesLR (507904)
+        │   │       ├── mbounds (496)
+        │   │       ├── mranges (1)
+        │   │       ├── ranges (1)
+        │   │       ├── sorted (1)
+        │   │       ├── sortedLR (508401)
+        │   │       └── zbounds (496)
+        │   └── table (985779)
+        ├── meter13
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (496)
+        │   │       ├── bounds (1)
+        │   │       ├── indices (1)
+        │   │       ├── indicesLR (507904)
+        │   │       ├── mbounds (496)
+        │   │       ├── mranges (1)
+        │   │       ├── ranges (1)
+        │   │       ├── sorted (1)
+        │   │       ├── sortedLR (508401)
+        │   │       └── zbounds (496)
+        │   └── table (985600)
+        ├── meter14
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (496)
+        │   │       ├── bounds (1)
+        │   │       ├── indices (1)
+        │   │       ├── indicesLR (507904)
+        │   │       ├── mbounds (496)
+        │   │       ├── mranges (1)
+        │   │       ├── ranges (1)
+        │   │       ├── sorted (1)
+        │   │       ├── sortedLR (508401)
+        │   │       └── zbounds (496)
+        │   └── table (985998)
+        ├── meter15
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (496)
+        │   │       ├── bounds (1)
+        │   │       ├── indices (1)
+        │   │       ├── indicesLR (507904)
+        │   │       ├── mbounds (496)
+        │   │       ├── mranges (1)
+        │   │       ├── ranges (1)
+        │   │       ├── sorted (1)
+        │   │       ├── sortedLR (508401)
+        │   │       └── zbounds (496)
+        │   └── table (985856)
+        ├── meter16
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (496)
+        │   │       ├── bounds (1)
+        │   │       ├── indices (1)
+        │   │       ├── indicesLR (507904)
+        │   │       ├── mbounds (496)
+        │   │       ├── mranges (1)
+        │   │       ├── ranges (1)
+        │   │       ├── sorted (1)
+        │   │       ├── sortedLR (508401)
+        │   │       └── zbounds (496)
+        │   └── table (984488)
+        ├── meter17
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (496)
+        │   │       ├── bounds (1)
+        │   │       ├── indices (1)
+        │   │       ├── indicesLR (507904)
+        │   │       ├── mbounds (496)
+        │   │       ├── mranges (1)
+        │   │       ├── ranges (1)
+        │   │       ├── sorted (1)
+        │   │       ├── sortedLR (508401)
+        │   │       └── zbounds (496)
+        │   └── table (975359)
+        ├── meter18
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (496)
+        │   │       ├── bounds (1)
+        │   │       ├── indices (1)
+        │   │       ├── indicesLR (507904)
+        │   │       ├── mbounds (496)
+        │   │       ├── mranges (1)
+        │   │       ├── ranges (1)
+        │   │       ├── sorted (1)
+        │   │       ├── sortedLR (508401)
+        │   │       └── zbounds (496)
+        │   └── table (985855)
+        ├── meter19
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (608)
+        │   │       ├── bounds (2)
+        │   │       ├── indices (2)
+        │   │       ├── indicesLR (622592)
+        │   │       ├── mbounds (608)
+        │   │       ├── mranges (2)
+        │   │       ├── ranges (2)
+        │   │       ├── sorted (2)
+        │   │       ├── sortedLR (622897)
+        │   │       └── zbounds (608)
+        │   └── table (1842971)
+        ├── meter2
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (496)
+        │   │       ├── bounds (1)
+        │   │       ├── indices (1)
+        │   │       ├── indicesLR (507904)
+        │   │       ├── mbounds (496)
+        │   │       ├── mranges (1)
+        │   │       ├── ranges (1)
+        │   │       ├── sorted (1)
+        │   │       ├── sortedLR (508401)
+        │   │       └── zbounds (496)
+        │   └── table (984881)
+        ├── meter20
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (608)
+        │   │       ├── bounds (2)
+        │   │       ├── indices (2)
+        │   │       ├── indicesLR (622592)
+        │   │       ├── mbounds (608)
+        │   │       ├── mranges (2)
+        │   │       ├── ranges (2)
+        │   │       ├── sorted (2)
+        │   │       ├── sortedLR (622897)
+        │   │       └── zbounds (608)
+        │   └── table (1842883)
+        ├── meter21
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (608)
+        │   │       ├── bounds (2)
+        │   │       ├── indices (2)
+        │   │       ├── indicesLR (622592)
+        │   │       ├── mbounds (608)
+        │   │       ├── mranges (2)
+        │   │       ├── ranges (2)
+        │   │       ├── sorted (2)
+        │   │       ├── sortedLR (622897)
+        │   │       └── zbounds (608)
+        │   └── table (1842782)
+        ├── meter22
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (608)
+        │   │       ├── bounds (2)
+        │   │       ├── indices (2)
+        │   │       ├── indicesLR (622592)
+        │   │       ├── mbounds (608)
+        │   │       ├── mranges (2)
+        │   │       ├── ranges (2)
+        │   │       ├── sorted (2)
+        │   │       ├── sortedLR (622897)
+        │   │       └── zbounds (608)
+        │   └── table (1859593)
+        ├── meter23
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (608)
+        │   │       ├── bounds (2)
+        │   │       ├── indices (2)
+        │   │       ├── indicesLR (622592)
+        │   │       ├── mbounds (608)
+        │   │       ├── mranges (2)
+        │   │       ├── ranges (2)
+        │   │       ├── sorted (2)
+        │   │       ├── sortedLR (622897)
+        │   │       └── zbounds (608)
+        │   └── table (1859545)
+        ├── meter24
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (608)
+        │   │       ├── bounds (2)
+        │   │       ├── indices (2)
+        │   │       ├── indicesLR (622592)
+        │   │       ├── mbounds (608)
+        │   │       ├── mranges (2)
+        │   │       ├── ranges (2)
+        │   │       ├── sorted (2)
+        │   │       ├── sortedLR (622897)
+        │   │       └── zbounds (608)
+        │   └── table (1859562)
+        ├── meter25
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (0)
+        │   │       ├── bounds (0)
+        │   │       ├── indices (0)
+        │   │       ├── indicesLR (262144)
+        │   │       ├── mbounds (0)
+        │   │       ├── mranges (0)
+        │   │       ├── ranges (0)
+        │   │       ├── sorted (0)
+        │   │       ├── sortedLR (262401)
+        │   │       └── zbounds (0)
+        │   └── table (79850)
+        ├── meter26
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (2560)
+        │   │       ├── bounds (10)
+        │   │       ├── indices (10)
+        │   │       ├── indicesLR (1048576)
+        │   │       ├── mbounds (2560)
+        │   │       ├── mranges (10)
+        │   │       ├── ranges (10)
+        │   │       ├── sorted (10)
+        │   │       ├── sortedLR (1048833)
+        │   │       └── zbounds (2560)
+        │   └── table (11405812)
+        ├── meter3
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (608)
+        │   │       ├── bounds (2)
+        │   │       ├── indices (2)
+        │   │       ├── indicesLR (622592)
+        │   │       ├── mbounds (608)
+        │   │       ├── mranges (2)
+        │   │       ├── ranges (2)
+        │   │       ├── sorted (2)
+        │   │       ├── sortedLR (622897)
+        │   │       └── zbounds (608)
+        │   └── table (1845649)
+        ├── meter4
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (608)
+        │   │       ├── bounds (2)
+        │   │       ├── indices (2)
+        │   │       ├── indicesLR (622592)
+        │   │       ├── mbounds (608)
+        │   │       ├── mranges (2)
+        │   │       ├── ranges (2)
+        │   │       ├── sorted (2)
+        │   │       ├── sortedLR (622897)
+        │   │       └── zbounds (608)
+        │   └── table (1854414)
+        ├── meter5
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (608)
+        │   │       ├── bounds (2)
+        │   │       ├── indices (2)
+        │   │       ├── indicesLR (622592)
+        │   │       ├── mbounds (608)
+        │   │       ├── mranges (2)
+        │   │       ├── ranges (2)
+        │   │       ├── sorted (2)
+        │   │       ├── sortedLR (622897)
+        │   │       └── zbounds (608)
+        │   └── table (1840507)
+        ├── meter6
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (608)
+        │   │       ├── bounds (2)
+        │   │       ├── indices (2)
+        │   │       ├── indicesLR (622592)
+        │   │       ├── mbounds (608)
+        │   │       ├── mranges (2)
+        │   │       ├── ranges (2)
+        │   │       ├── sorted (2)
+        │   │       ├── sortedLR (622897)
+        │   │       └── zbounds (608)
+        │   └── table (1857061)
+        ├── meter7
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (608)
+        │   │       ├── bounds (2)
+        │   │       ├── indices (2)
+        │   │       ├── indicesLR (622592)
+        │   │       ├── mbounds (608)
+        │   │       ├── mranges (2)
+        │   │       ├── ranges (2)
+        │   │       ├── sorted (2)
+        │   │       ├── sortedLR (622897)
+        │   │       └── zbounds (608)
+        │   └── table (1851917)
+        ├── meter8
+        │   ├── _i_table
+        │   │   └── index
+        │   │       ├── abounds (496)
+        │   │       ├── bounds (1)
+        │   │       ├── indices (1)
+        │   │       ├── indicesLR (507904)
+        │   │       ├── mbounds (496)
+        │   │       ├── mranges (1)
+        │   │       ├── ranges (1)
+        │   │       ├── sorted (1)
+        │   │       ├── sortedLR (508401)
+        │   │       └── zbounds (496)
+        │   └── table (985653)
+        └── meter9
+            ├── _i_table
+            │   └── index
+            │       ├── abounds (608)
+            │       ├── bounds (2)
+            │       ├── indices (2)
+            │       ├── indicesLR (622592)
+            │       ├── mbounds (608)
+            │       ├── mranges (2)
+            │       ├── ranges (2)
+            │       ├── sorted (2)
+            │       ├── sortedLR (622897)
+            │       └── zbounds (608)
+            └── table (1848688)

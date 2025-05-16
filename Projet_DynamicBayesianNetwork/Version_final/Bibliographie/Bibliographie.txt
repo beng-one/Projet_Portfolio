@@ -1,0 +1,85 @@
+Abdelkader - 2023 - Electricity Consumption Forecasting in Algeria using ARIMA.pdf
+Ahmad - 2014 - A review on applications of ANN and SVM for building electrical .pdf
+Ahmed - 1993 - A regression model for electric-energy consumption.pdf
+Ahmed - 1994 -regression model for electric energy consumtion forecasting.pdf
+Amalou - 2022 - Multivariate time series prediction by RNN architectures for energy.pdf
+Amasyali - 2017 - A review of data-driven building energy consumption prediction.pdf
+Aulia - 2024 - Probabilistic Forecasting of Energy Consumption using Bayesian.pdf
+Azadeh - 2008 - Annual electricity consumption forecasting by neural network.pdf
+Azhar - 2016 - Building electrical energy consumption forecasting analysis.pdf
+Bandyopadhyay - 2024 - Modelling and forecasting India's electricity consumption.pdf
+Ben-Nakhi - 2003 - Cooling load prediction for buildings using general.pdf
+Bessec - 2008 - The non-linear link between electricity consumption.pdf
+Bianco - 2009 - Electricity consumption forecasting in Italy using linear.pdf
+Bianco - 2012 - Linear Regression Models to Forecast Electricity Consump.pdf
+Bourdeau - 2019 - Modeling and forecasting building energy consumption.pdf
+Building-energy-consumption-status-worldwide-and-the-state-of_2016_Energy-an.pdf
+Chou - 2018 - Forecasting energy consumption time series using machine learning (2).pdf
+Chou - 2018 - Forecasting energy consumption time series using machine learning.pdf
+Chou - 2020 - Multistep energy consumption forecasting by metaheuristic optimizatio.pdf
+Chujai - 2013 - Time series analysis of household electric consumption with ARIMA.pdf
+Cuesta - 2020 - A critical analysis on hybrid renewable energy modeling tools.pdf
+Deb - 2017 - A review on time series forecasting techniques for building energy.pdf
+Deep-learning-for-estimating-building-ener_2016_Sustainable-Energy--Grids-an.pdf
+Dong - 2005 - Applying support vector machines to predict building energy.pdf
+Eddaoudi - 2024 - A Brief Review of Energy Consumption Forecasting Using  Machine.pdf
+Energy-consumption-model-and-energy-efficiency-of-machi_2016_Journal-of-Clea.pdf
+Estimation-of-energy-consumption-in-ma_2019_Journal-of-Parallel-and-Distribu.pdf
+Firsova - 2018 - Energy Consumption Forecasting for Power Supply Companies.pdf
+Foucquier - 2013 - State of art.htm
+Fumo - 2015 - Regression analysis for prediction of residential energy.pdf
+Gao - 2020 - Deep learning and transfer learning models of energy consumption.pdf
+Hao - 2015 - Chinas farewell to coal A forecast of coal consumption through 2020.pdf
+Hawarah - 2010 -User Behavior Prediction in Energy.pdf
+Hilpert - 2018 - The Open Energy Modelling Framework (oemof) - A new approach.pdf
+Huang - 2022 - Energy Forecasting in a Public Building A Benchmarking Analysis.pdf
+IAE - 2024 - Electricity 2024 Analysis and forecast to 2026.pdf
+Karatasou - 2005 - Modeling and predicting building’s energy use with.pdf
+Kelly - 2015 - The UKDALE dataset domestic appliance level electricity demand.pdf
+Khalil - 2022 - Machine Learning, Deep Learning and Statistical Analysis.pdf
+Khalique - 2023 - A new approach to seasonal energy consumption forecasting using.pdf
+Klyuev - 2022 - Methods of Forecasting Electric Energy Consumption A Litterature.pdf
+Klyuev - 2022 - Methods of Forecasting Electric Energy Consumption.pdf
+Laha - 2017 - Energy model – A tool for preventing energy dysfunction.pdf
+Lund - 2017 - Smart energy and smart energy systems.pdf
+Moral-Carcedo - 2005 - Modelling the non linear response of Spanish.pdf
+Pao -2004 - Comparing linear and nonlinear forecasts for Taiwan.pdf
+Rutkowski - 2010 - Artificial intelligence and soft computing.pdf
+Shin - 2022 - Energy Consumption Forecasting in Korea Using Machine learning.pdf
+Singh - 2018 - Big Data Mining of Energy Time Series for Behavioral Analytics.pdf
+Su - 2018 - Analysis of energy consumption and cost-effectiveness for.pdf
+Tinsi - 2021 - Modeling and optimal strategies in short-term energy markets.pdf
+Tozzi - 2017 - A comparative analysis of renewable energy simulation tools.pdf
+Tsai - 2017 - Models for forecasting growth trends in renewable energy.pdf
+Tunç - 2006 - Comparison of Turkey's electrical energy consumption and production.pdf
+Valor - 2001 - Daily Air Temperature and Electricity Load in Spain.pdf
+Wang - 2016 - Homogeneous Ensemble Model for Building Energy Prediction.pdf
+Wei - 2019 - Conventional models and artificial intelligence based models for energ.pdf
+Yan - 2019 - A Hybrid LSTM Neural Network for Energy Consumption forecasting.pdf
+Yasmeen - 2014 - Forecasting electricity consumption for Pakistan.pdf
+Yokoyama - 2008 - Prediction of energy demands using neural network.pdf
+Zhang - 2024 - Power generation forecasting for solar plants based on Dynamic.pdf
+Zheng - 2023 - Interpretable building energy consumption forecasting using spectral.pdf
+07_05_active_power_sustainability-12-03177.pdf
+A-review-of-artificial-intelligence-based-building-ener_2017_Renewable-and-S.pdf
+A-short-term-building-cooling-load-prediction-method-using-d_2017_Applied-En.pdf
+Bouillaut - 2024 - Les modèles graphiques probabilistes de la dégradation.pdf
+Brewer - 2012 - Introduction to Bayesian Statistics.pdf
+Chabanol - 2013 - Chaines de markov.pdf
+Chin - 2018 - Bayesian analysis.pdf
+Dobigeon - 2018 - Inference bayesienne et methodes de Monte Carlo.pdf
+Franca - 2009 - Statistique bayésienne éléments de culture générale.pdf
+Gosh - 2006 - Introduction to bayesian analysis Theory and Methods.pdf
+Hejblum - 2022 - Introduction à l’analyse bayésienne et à ses méthodes numériques.pdf
+Houbracq - 2021 - Apprentissage et sélection de réseaux bayésiens dynamiques.pdf
+Jensen - 2009 - Bayesian Networks and Decision Graphs.pdf
+Lambert - 2018 - A student s Guide to bayesian statistics.pdf
+Marin - 2016 - Les bases de la statistique bayésienne.pdf
+Mihajlovic - 2004 - Dynamic Bayesian Networks A State of art.pdf
+Petiet - 2019 - Réseau bayésien dynamique hybride.pdf
+Sun - 2004 - Bayesian Network Methods for Traffic Flow.pdf
+Traonmilin - 2018 - Introduction aux Statistiques Bayesiennes.pdf
+Ye - 2024 - Probabilistic Distribution Identification for Power.pdf
+Yu - 2010 - Introduction to bayesian networks.pdf
+
+
