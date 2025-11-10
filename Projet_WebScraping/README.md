@@ -1,5 +1,9 @@
-### Introduction au Webscraping
-Extraction des données du site internet 
+Extraction des données du site internet https://quotes.toscrape.com/ en utilisant les librairies
 ---------------------------------------
-https://quotes.toscrape.com/
+- BeautifulSoup
+- Requests
+- Pandas
+- Numpy
+- Matplotlib
+
 
