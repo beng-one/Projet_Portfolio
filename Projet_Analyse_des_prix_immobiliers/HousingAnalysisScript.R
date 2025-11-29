@@ -215,26 +215,3 @@ stargazer(modele_1, modele_2, modele_3, modele_4,
 plot(modele_1, which = 1)
 plot(modele_3, which = 1)
 bptest(modele_3)
-
-
-## -------- Utliser la fonction cut
-
-# q25 <- quantile(df$lotsize, probs = 0.25)
-# 
-# print(q75)
-# q50 <- quantile(df$lotsize, probs = 0.50)
-# q75 <- quantile(df$lotsize, probs = 0.75)
-# 
-# df$lotsize_discrete <- cut(
-#                     df$lotsize,
-#                     breaks = c(-Inf,q25, q50, q75, Inf),
-#                     labels = c("L1", "L2", "L3", "L4")
-#                     )
-# 
-# df$L1 <- ifelse(df$lotsize_discrete=="L1", 1, 0)
-# df$L2 <- ifelse(df$lotsize_discrete=="L2", 1, 0)
-# df$L3 <- ifelse(df$lotsize_discrete=="L3", 1, 0)
-# df$L4 <- ifelse(df$lotsize_discrete=="L4", 1, 0)
-
-
-
